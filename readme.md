@@ -14,4 +14,3 @@ setTimeout(function () {
 }, 100);
 
 ```
-**tag**
